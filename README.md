@@ -1,16 +1,1 @@
-# pt_bukukasnusantara
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/KristinBrGultom/pt_bukukasnusantara_ujianlsp/assets/89897348/4f55d32e-b298-40f9-9638-5d8fa2127c8c)
